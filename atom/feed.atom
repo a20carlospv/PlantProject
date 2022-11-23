@@ -5,26 +5,28 @@
  <subtitle>This a page about orchids</subtitle>
  <updated>2022-11-23T09:50:00Z</updated>
 
- <entry>
- <author>
- <name>Carlos Picón</name>
- </author>
- <title>Orchid</title>
- <id>http://a20carlospv.github.io/PlantProject/orchid.html</id>
- <updated>2022-11-23T09:50:00Z</updated>
- <published>2022-11-23T09:50:00Z</published>
- <category../>
- <summary>...</summary>
- </entry>
- <entry>
+<entry>
     <author>
     <name>Carlos Picón</name>
     </author>
     <title>Index</title>
-    <id>http://a20carlospv.github.io/PlantProject/index.html</id>
+    <link>http://a20carlospv.github.io/PlantProject/index.html</link>
     <updated>2022-11-23T09:50:00Z</updated>
     <published>2022-06-23T09:50:00Z</published>
     <category../>
     <summary>...</summary>
-    </entry>
+</entry>
+    
+<entry>
+    <author>
+    <name>Carlos Picón</name>
+    </author>
+    <title>Orchid</title>
+    <link>http://a20carlospv.github.io/PlantProject/orchid.html</link>
+    <updated>2022-11-23T09:50:00Z</updated>
+    <published>2022-11-23T09:50:00Z</published>
+    <category../>
+    <summary>...</summary>
+ </entry>
+ 
 </feed>
